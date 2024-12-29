@@ -1,7 +1,12 @@
 [
-	{
-		"name": "Smart 01",
-		"ip": "51.75.232.69",
-		"port": "1425"
-        "id": ""
-	}
+    {
+      "x2": false,
+      "name": "Flame #1",
+      "online": 472,
+    },
+    {
+      "x2": false,
+      "name": "Flame #2",
+      "online": 322,
+    }
+]	
