@@ -1,12 +1,18 @@
 [
     {
-      "x2": false,
-      "name": "Flame #1",
-      "online": 472
+    "ip": "54.36.82.238",
+    "port": 1373,
+    "x2": true,
+    "name": "Вейктоновка #1",
+    "online": 837,
+    "maxonline": 1000
     },
     {
-      "x2": false,
-      "name": "Flame #2",
-      "online": 322
+    "ip": "54.36.82.238",
+    "port": 1373,
+    "x2": true,
+    "name": "Вейктоновка #1",
+    "online": 837,
+    "maxonline": 1000
     }
 ]	
